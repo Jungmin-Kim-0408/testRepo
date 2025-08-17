@@ -1,0 +1,30 @@
+*   [33macc6949[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Merge pull request #16 from Jungmin-Kim-0408/feature00
+[31m|[m[32m\[m  
+[31m|[m * [33m863d2d0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature00[m[33m, [m[1;31morigin/feature00[m[33m)[m [tmp] : feature/func00
+[31m|[m[31m/[m  
+*   [33m642a48c[m Merge pull request #14 from Jungmin-Kim-0408/tmp]-feature-0
+[33m|[m[34m\[m  
+[33m|[m * [33mf47fc10[m[33m ([m[1;31morigin/tmp]-feature-0[m[33m, [m[1;32mtmp]-feature-0[m[33m)[m [tmp] : feature/func0
+[33m|[m[33m/[m  
+*   [33m5fbf89a[m[33m ([m[1;32mmain[m[33m)[m Merge pull request #12 from Jungmin-Kim-0408/feature/func2
+[35m|[m[36m\[m  
+[35m|[m *   [33m2239b9a[m Merge branch 'main' into feature/func2
+[35m|[m [1;31m|[m[35m\[m  
+[35m|[m [1;31m|[m[35m/[m  
+[35m|[m[35m/[m[1;31m|[m   
+[35m|[m * [33meff6f2c[m [tmp] : feature/func2
+* [1;32m|[m   [33m15b2982[m Merge pull request #11 from Jungmin-Kim-0408/feature/func1
+[1;32m|[m[1;34m\[m [1;32m\[m  
+[1;32m|[m [1;34m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;34m|[m   
+[1;32m|[m * [33m9630b9a[m [tmp] : feature/func1
+[1;32m|[m[1;32m/[m  
+*   [33m286a585[m Merge branch 'main' of https://github.com/Jungmin-Kim-0408/testRepo
+[1;35m|[m[1;36m\[m  
+* [1;36m|[m [33m768c82e[m [Add] .gitignore
+* [1;36m|[m [33m81745bd[m first commit
+[1;36m|[m * [33m69ec16f[m Merge pull request #3 from Jungmin-Kim-0408/feature/login
+[1;36m|[m[1;36m/[m[32m|[m 
+[1;36m|[m * [33m48b3494[m [tmp] : feature/login
+[1;36m|[m[1;36m/[m  
+* [33m2e230b9[m first commit
